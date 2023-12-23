@@ -1,6 +1,6 @@
-# FIND NIGERIA INTERNSHIPS
+# FIND NIGERIA COMPANIES OFFERING TECH INTERNSHIPS
 
-Explore the following companies that may offer internships in the tech industry. This list is not exhaustive but provides a great starting point for your search.
+Explore the following companies that may offer TECH internships. This list is not exhaustive but provides a great starting point for your search.
 
 |   COMPANY   |                   CONTACT EMAIL                    |                                       CAREER URL                                       |
 | :---------: | :------------------------------------------------: | :------------------------------------------------------------------------------------: |
