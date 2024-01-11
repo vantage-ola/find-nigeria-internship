@@ -25,7 +25,7 @@ Explore the following companies that may offer TECH internships. This list is no
 |         DATA FLEX          |                info@dataflexng.com                 |                     [DATA FLEX CAREERS](https://dataflexng.com/about/careers/)                     |
 |          GLOBACOM          |                careers@gloworld.com                |                      [GLOBACOM CAREERS](https://www.gloworld.com/ng/careers)                       |
 |           AIRTEL           |                        nil                         |                         [AIRTEL CAREERS](https://www.airtel.com.ng/career)                         |
-|            HUGO            |                 sales.hugotech.co                  |                            [HUGO CAREERS](https://hugotech.co/careers/)                            |
+|            HUGO            |                 sales@hugotech.co                  |                            [HUGO CAREERS](https://hugotech.co/careers/)                            |
 |          9MOBILE           |                care@9mobile.com.ng                 |                         [9MOBILE CAREERS](https://careers.9mobile.com.ng/)                         |
 |          SOFTCOM           |                        nil                         |                         [SOFTCOM CAREERS](https://careers.9mobile.com.ng/)                         |
 |    TEK EXPERTS NIGERIA     |          https://tek-experts.com/contact           |                   [TEK EXPERTS CAREERS](https://careers.tek-experts.com/nigeria)                   |
