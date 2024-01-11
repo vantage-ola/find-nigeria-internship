@@ -47,6 +47,7 @@ Explore the following companies that may offer TECH internships. This list is no
 | INTERNET SOLUTIONS NIGERIA |                    sales@isn.ng                    |                                [ISN CAREERS](https://isn.ng/jobs/)                                 |
 |       TOTAL ENERGIES       |                        nil                         |                 [TOTAL CAREERS](https://totalenergies.avature.net/en_US/careers/)                  |
 |           SHELL            |                        nil                         | [SHELL CAREERS](https://www.shell.com.ng/careers/students-and-graduates/assessed-internships.html) |
+|           META            |                        nil                         | [META CAREERS](https://www.metacareers.com/careerprograms/students/) |
 
 ## CONTRIBUTIONS
 
